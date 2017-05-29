@@ -4,7 +4,7 @@ Role Name
 An [Ansible] role to install/configure [WOK]
 
 - Wok is a cherrypy-based web framework with HTML5 support originated from
-Kimchi. It can be extended by plugins which expose functionality through
+[Kimchi]. It can be extended by plugins which expose functionality through
 REST APIs.
 
 Requirements
@@ -41,4 +41,5 @@ Larry Smith Jr.
 
 [@mrlesmithjr]: <https://www.twitter.com/mrlesmithjr>
 [Ansible]: <https://www.ansible.com>
+[Kimchi]: <http://kimchi-project.github.io/kimchi/>
 [WOK]: <http://kimchi-project.github.io/wok/>
